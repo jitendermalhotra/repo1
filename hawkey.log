@@ -1,0 +1,403 @@
+INFO Apr-26 14:02:53 === Started libdnf-0.22.4 ===
+DEBUG Apr-26 14:02:53 fetching rpmdb
+DEBUG Apr-26 14:02:53 Architecture is: x86_64
+DEBUG Apr-26 14:02:53 running_kernel(): kernel-core-4.18.0-80.el8.x86_64.
+DEBUG Apr-26 14:02:54 Architecture is: x86_64
+INFO Apr-26 14:02:54 === Started libdnf-0.22.4 ===
+DEBUG Apr-26 14:02:54 fetching rpmdb
+INFO Apr-26 14:02:54 === Started libdnf-0.22.4 ===
+DEBUG Apr-26 14:02:54 fetching rpmdb
+DEBUG Apr-26 14:02:54 Architecture is: x86_64
+DEBUG Apr-26 14:02:55 running_kernel(): kernel-core-4.18.0-80.el8.x86_64.
+DEBUG Apr-26 14:02:58 Architecture is: x86_64
+INFO Apr-26 14:02:58 === Started libdnf-0.22.4 ===
+DEBUG Apr-26 14:02:58 fetching rpmdb
+INFO Jun-01 07:56:21 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:56:21 fetching rpmdb
+DEBUG Jun-01 07:56:23 deleting directory /var/cache/dnf/rhui-client-config-server-8-39066fbf429dce29/repodata
+DEBUG Jun-01 07:56:23 deleting directory /var/cache/dnf/rhui-client-config-server-8-39066fbf429dce29/tmpdir.efH2uP
+DEBUG Jun-01 07:56:23 fetching rhui-client-config-server-8
+DEBUG Jun-01 07:56:23 caching repo: rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 07:56:23 load_ext: loading: /var/cache/dnf/rhui-client-config-server-8-39066fbf429dce29/repodata/3a77b86dd67775dad0136ac273c1fb2f3c41450416ee2162e5368b40cbdb23f9-filelists.xml.gz
+DEBUG Jun-01 07:56:23 write_ext: storing rhui-client-config-server-8 to: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx.5Yne5D
+DEBUG Jun-01 07:56:23 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 07:56:23 load_ext: loading: /var/cache/dnf/rhui-client-config-server-8-39066fbf429dce29/repodata/8699bdeaab6108e72ad59fe17dfcb142860bd685c83a7c905e9f656d6f0bbadc-updateinfo.xml.gz
+DEBUG Jun-01 07:56:23 write_ext: storing rhui-client-config-server-8 to: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx.N7UsJg
+DEBUG Jun-01 07:56:23 deleting directory /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata
+DEBUG Jun-01 07:56:23 deleting directory /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/tmpdir.mPsApT
+DEBUG Jun-01 07:56:23 fetching rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 07:56:23 caching repo: rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 07:56:24 load_ext: loading: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/2ab077a2af3b3ac41ba3df6e806e433d67f33fb8613e45ee06109c670c7e205f-filelists.xml.gz
+DEBUG Jun-01 07:56:24 write_ext: storing rhui-rhel-8-appstream-rhui-rpms to: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx.xJJjNQ
+DEBUG Jun-01 07:56:25 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 07:56:25 load_ext: loading: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/45c4ca96fe7de430759c2707760a533b004c847d10ee23b1c657713eec8fb687-updateinfo.xml.gz
+DEBUG Jun-01 07:56:25 write_ext: storing rhui-rhel-8-appstream-rhui-rpms to: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx.UgyS6x
+DEBUG Jun-01 07:56:25 deleting directory /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata
+DEBUG Jun-01 07:56:25 deleting directory /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/tmpdir.yD6Ruf
+DEBUG Jun-01 07:56:25 fetching rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 07:56:25 caching repo: rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 07:56:25 load_ext: loading: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/dfe9761964c6b0e12777b0fdfcdbc8a2a2ca476da250894d176ebf0b2d8dbe94-filelists.xml.gz
+DEBUG Jun-01 07:56:25 write_ext: storing rhui-rhel-8-baseos-rhui-rpms to: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx.dSynap
+DEBUG Jun-01 07:56:26 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 07:56:26 load_ext: loading: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/dde1ed9fba5d0e68a1705a53ea5074be369a47622a5a9c105192a57b267f8758-updateinfo.xml.gz
+DEBUG Jun-01 07:56:26 write_ext: storing rhui-rhel-8-baseos-rhui-rpms to: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx.8nVTc9
+DEBUG Jun-01 07:56:26 Architecture is: x86_64
+DEBUG Jun-01 07:56:26 running_kernel(): running kernel not matched to a package.
+DEBUG Jun-01 07:56:26 rewriting repo: rhui-client-config-server-8
+DEBUG Jun-01 07:56:26 caching repo: rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 07:56:26 rewriting repo: rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 07:56:26 caching repo: rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 07:56:26 rewriting repo: rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 07:56:26 caching repo: rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+INFO Jun-01 07:56:34 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:56:34 fetching rpmdb
+DEBUG Jun-01 07:56:34 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 07:56:34 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 07:56:34 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 07:56:34 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 07:56:34 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 07:56:34 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 07:56:34 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 07:56:34 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 07:56:34 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 07:56:34 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 07:56:34 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 07:56:34 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 07:56:34 Architecture is: x86_64
+DEBUG Jun-01 07:56:34 running_kernel(): running kernel not matched to a package.
+DEBUG Jun-01 07:56:35 running_kernel(): kernel-core-4.18.0-80.el8.x86_64.
+DEBUG Jun-01 07:56:43 Architecture is: x86_64
+INFO Jun-01 07:56:43 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:56:43 fetching rpmdb
+DEBUG Jun-01 07:56:44 Architecture is: x86_64
+INFO Jun-01 07:56:44 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:56:44 fetching rpmdb
+INFO Jun-01 07:58:11 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:58:11 fetching rpmdb
+DEBUG Jun-01 07:58:12 deleting directory /var/cache/dnf/jenkins-93d3f0abc3d47743/repodata
+DEBUG Jun-01 07:58:12 deleting directory /var/cache/dnf/jenkins-93d3f0abc3d47743/tmpdir.YHHsAD
+DEBUG Jun-01 07:58:12 fetching jenkins
+DEBUG Jun-01 07:58:12 caching repo: jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 07:58:12 load_ext: loading: /var/cache/dnf/jenkins-93d3f0abc3d47743/repodata/6b59c9aedd360a8351748c9c5729c7fbd385c8191c3a33c1cfc7ea150d7aef09-filelists.xml.gz
+DEBUG Jun-01 07:58:12 write_ext: storing jenkins to: /var/cache/dnf/jenkins-filenames.solvx.QuUdY7
+DEBUG Jun-01 07:58:12 no presto metadata available for jenkins
+DEBUG Jun-01 07:58:12 no updateinfo available for jenkins
+DEBUG Jun-01 07:58:12 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 07:58:12 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 07:58:12 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 07:58:12 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 07:58:12 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 07:58:12 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 07:58:12 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 07:58:12 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 07:58:12 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 07:58:12 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 07:58:12 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 07:58:12 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 07:58:12 Architecture is: x86_64
+DEBUG Jun-01 07:58:12 running_kernel(): running kernel not matched to a package.
+DEBUG Jun-01 07:58:12 rewriting repo: jenkins
+DEBUG Jun-01 07:58:12 caching repo: jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 07:58:13 running_kernel(): kernel-core-4.18.0-80.el8.x86_64.
+DEBUG Jun-01 07:58:31 Architecture is: x86_64
+INFO Jun-01 07:58:31 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:58:31 fetching rpmdb
+DEBUG Jun-01 07:58:31 Architecture is: x86_64
+INFO Jun-01 07:58:31 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:58:31 fetching rpmdb
+INFO Jun-01 07:59:01 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:59:01 fetching rpmdb
+DEBUG Jun-01 07:59:01 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 07:59:01 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-01 07:59:01 no presto metadata available for jenkins
+DEBUG Jun-01 07:59:01 no updateinfo available for jenkins
+DEBUG Jun-01 07:59:01 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 07:59:01 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 07:59:01 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 07:59:01 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 07:59:01 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 07:59:01 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 07:59:01 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 07:59:01 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 07:59:01 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 07:59:01 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 07:59:01 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 07:59:01 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 07:59:01 Architecture is: x86_64
+DEBUG Jun-01 07:59:01 running_kernel(): running kernel not matched to a package.
+INFO Jun-01 07:59:11 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:59:11 fetching rpmdb
+DEBUG Jun-01 07:59:11 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 07:59:11 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-01 07:59:11 no presto metadata available for jenkins
+DEBUG Jun-01 07:59:11 no updateinfo available for jenkins
+DEBUG Jun-01 07:59:11 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 07:59:11 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 07:59:11 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 07:59:11 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 07:59:11 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 07:59:11 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 07:59:11 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 07:59:11 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 07:59:11 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 07:59:11 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 07:59:11 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 07:59:11 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 07:59:11 Architecture is: x86_64
+DEBUG Jun-01 07:59:11 running_kernel(): running kernel not matched to a package.
+DEBUG Jun-01 07:59:11 running_kernel(): kernel-core-4.18.0-80.el8.x86_64.
+DEBUG Jun-01 07:59:54 Architecture is: x86_64
+INFO Jun-01 07:59:54 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:59:54 fetching rpmdb
+DEBUG Jun-01 07:59:54 Architecture is: x86_64
+INFO Jun-01 07:59:54 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 07:59:54 fetching rpmdb
+INFO Jun-01 08:01:01 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 08:01:03 deleting file /tmp/tmpdir.T5QGFC/repodata/repomd.xml
+DEBUG Jun-01 08:01:03 deleting directory /tmp/tmpdir.T5QGFC/repodata
+DEBUG Jun-01 08:01:03 deleting directory /tmp/tmpdir.T5QGFC
+DEBUG Jun-01 08:01:03 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 08:01:03 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-01 08:01:03 no presto metadata available for jenkins
+DEBUG Jun-01 08:01:03 no updateinfo available for jenkins
+DEBUG Jun-01 08:01:04 deleting file /tmp/tmpdir.oNDfe4/repodata/repomd.xml
+DEBUG Jun-01 08:01:04 deleting directory /tmp/tmpdir.oNDfe4/repodata
+DEBUG Jun-01 08:01:04 deleting file /tmp/tmpdir.oNDfe4/mirrorlist
+DEBUG Jun-01 08:01:04 deleting directory /tmp/tmpdir.oNDfe4
+DEBUG Jun-01 08:01:04 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 08:01:04 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 08:01:04 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 08:01:04 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 08:01:04 deleting file /tmp/tmpdir.96U1d0/repodata/repomd.xml
+DEBUG Jun-01 08:01:04 deleting directory /tmp/tmpdir.96U1d0/repodata
+DEBUG Jun-01 08:01:04 deleting file /tmp/tmpdir.96U1d0/mirrorlist
+DEBUG Jun-01 08:01:04 deleting directory /tmp/tmpdir.96U1d0
+DEBUG Jun-01 08:01:04 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 08:01:04 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 08:01:04 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 08:01:04 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 08:01:04 deleting file /tmp/tmpdir.4ua9kZ/repodata/repomd.xml
+DEBUG Jun-01 08:01:04 deleting directory /tmp/tmpdir.4ua9kZ/repodata
+DEBUG Jun-01 08:01:04 deleting file /tmp/tmpdir.4ua9kZ/mirrorlist
+DEBUG Jun-01 08:01:04 deleting directory /tmp/tmpdir.4ua9kZ
+DEBUG Jun-01 08:01:04 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 08:01:04 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 08:01:04 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 08:01:04 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 08:01:04 Architecture is: x86_64
+DEBUG Jun-01 08:01:04 running_kernel(): running kernel not matched to a package.
+INFO Jun-01 08:24:11 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 08:24:11 fetching rpmdb
+DEBUG Jun-01 08:24:11 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 08:24:11 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-01 08:24:11 no presto metadata available for jenkins
+DEBUG Jun-01 08:24:11 no updateinfo available for jenkins
+DEBUG Jun-01 08:24:12 deleting file /tmp/tmpdir.hj2LAA/repodata/repomd.xml
+DEBUG Jun-01 08:24:12 deleting directory /tmp/tmpdir.hj2LAA/repodata
+DEBUG Jun-01 08:24:12 deleting file /tmp/tmpdir.hj2LAA/mirrorlist
+DEBUG Jun-01 08:24:12 deleting directory /tmp/tmpdir.hj2LAA
+DEBUG Jun-01 08:24:12 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 08:24:12 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 08:24:12 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 08:24:12 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 08:24:12 deleting file /tmp/tmpdir.pkg2Ht/repodata/repomd.xml
+DEBUG Jun-01 08:24:12 deleting directory /tmp/tmpdir.pkg2Ht/repodata
+DEBUG Jun-01 08:24:12 deleting file /tmp/tmpdir.pkg2Ht/mirrorlist
+DEBUG Jun-01 08:24:12 deleting directory /tmp/tmpdir.pkg2Ht
+DEBUG Jun-01 08:24:12 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 08:24:12 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 08:24:12 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 08:24:12 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 08:24:12 deleting file /tmp/tmpdir.2383bq/repodata/repomd.xml
+DEBUG Jun-01 08:24:12 deleting directory /tmp/tmpdir.2383bq/repodata
+DEBUG Jun-01 08:24:12 deleting file /tmp/tmpdir.2383bq/mirrorlist
+DEBUG Jun-01 08:24:12 deleting directory /tmp/tmpdir.2383bq
+DEBUG Jun-01 08:24:12 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 08:24:12 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 08:24:12 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 08:24:12 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 08:24:12 Architecture is: x86_64
+DEBUG Jun-01 08:24:13 running_kernel(): running kernel not matched to a package.
+INFO Jun-01 08:24:35 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 08:24:35 fetching rpmdb
+DEBUG Jun-01 08:24:35 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 08:24:35 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-01 08:24:35 no presto metadata available for jenkins
+DEBUG Jun-01 08:24:35 no updateinfo available for jenkins
+DEBUG Jun-01 08:24:35 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 08:24:35 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 08:24:35 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 08:24:35 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 08:24:35 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 08:24:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 08:24:35 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 08:24:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 08:24:35 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 08:24:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 08:24:35 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 08:24:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 08:24:35 Architecture is: x86_64
+DEBUG Jun-01 08:24:36 running_kernel(): running kernel not matched to a package.
+INFO Jun-01 11:26:32 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 11:26:34 deleting file /tmp/tmpdir.JgFACt/repodata/repomd.xml
+DEBUG Jun-01 11:26:34 deleting directory /tmp/tmpdir.JgFACt/repodata
+DEBUG Jun-01 11:26:34 deleting directory /tmp/tmpdir.JgFACt
+DEBUG Jun-01 11:26:34 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 11:26:34 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-01 11:26:34 no presto metadata available for jenkins
+DEBUG Jun-01 11:26:34 no updateinfo available for jenkins
+DEBUG Jun-01 11:26:35 deleting file /tmp/tmpdir.QsW6QL/repodata/repomd.xml
+DEBUG Jun-01 11:26:35 deleting directory /tmp/tmpdir.QsW6QL/repodata
+DEBUG Jun-01 11:26:35 deleting file /tmp/tmpdir.QsW6QL/mirrorlist
+DEBUG Jun-01 11:26:35 deleting directory /tmp/tmpdir.QsW6QL
+DEBUG Jun-01 11:26:35 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 11:26:35 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 11:26:35 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 11:26:35 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 11:26:35 deleting file /tmp/tmpdir.PXjBcp/repodata/repomd.xml
+DEBUG Jun-01 11:26:35 deleting directory /tmp/tmpdir.PXjBcp/repodata
+DEBUG Jun-01 11:26:35 deleting file /tmp/tmpdir.PXjBcp/mirrorlist
+DEBUG Jun-01 11:26:35 deleting directory /tmp/tmpdir.PXjBcp
+DEBUG Jun-01 11:26:35 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 11:26:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 11:26:35 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 11:26:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 11:26:35 deleting file /tmp/tmpdir.9TBiJ5/repodata/repomd.xml
+DEBUG Jun-01 11:26:35 deleting directory /tmp/tmpdir.9TBiJ5/repodata
+DEBUG Jun-01 11:26:35 deleting file /tmp/tmpdir.9TBiJ5/mirrorlist
+DEBUG Jun-01 11:26:35 deleting directory /tmp/tmpdir.9TBiJ5
+DEBUG Jun-01 11:26:35 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 11:26:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 11:26:35 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 11:26:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 11:26:35 Architecture is: x86_64
+DEBUG Jun-01 11:26:35 running_kernel(): running kernel not matched to a package.
+INFO Jun-01 14:28:32 === Started libdnf-0.22.4 ===
+DEBUG Jun-01 14:28:34 deleting file /tmp/tmpdir.W3BjMT/repodata/repomd.xml
+DEBUG Jun-01 14:28:34 deleting directory /tmp/tmpdir.W3BjMT/repodata
+DEBUG Jun-01 14:28:34 deleting directory /tmp/tmpdir.W3BjMT
+DEBUG Jun-01 14:28:34 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-01 14:28:34 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-01 14:28:34 no presto metadata available for jenkins
+DEBUG Jun-01 14:28:34 no updateinfo available for jenkins
+DEBUG Jun-01 14:28:35 deleting file /tmp/tmpdir.kJPQHB/repodata/repomd.xml
+DEBUG Jun-01 14:28:35 deleting directory /tmp/tmpdir.kJPQHB/repodata
+DEBUG Jun-01 14:28:35 deleting file /tmp/tmpdir.kJPQHB/mirrorlist
+DEBUG Jun-01 14:28:35 deleting directory /tmp/tmpdir.kJPQHB
+DEBUG Jun-01 14:28:35 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-01 14:28:35 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-01 14:28:35 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-01 14:28:35 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-01 14:28:35 deleting file /tmp/tmpdir.rCPFq4/repodata/repomd.xml
+DEBUG Jun-01 14:28:35 deleting directory /tmp/tmpdir.rCPFq4/repodata
+DEBUG Jun-01 14:28:35 deleting file /tmp/tmpdir.rCPFq4/mirrorlist
+DEBUG Jun-01 14:28:35 deleting directory /tmp/tmpdir.rCPFq4
+DEBUG Jun-01 14:28:35 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-01 14:28:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-01 14:28:35 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-01 14:28:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 14:28:35 deleting file /tmp/tmpdir.6xEYhA/repodata/repomd.xml
+DEBUG Jun-01 14:28:35 deleting directory /tmp/tmpdir.6xEYhA/repodata
+DEBUG Jun-01 14:28:35 deleting file /tmp/tmpdir.6xEYhA/mirrorlist
+DEBUG Jun-01 14:28:35 deleting directory /tmp/tmpdir.6xEYhA
+DEBUG Jun-01 14:28:35 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-01 14:28:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-01 14:28:35 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-01 14:28:35 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-01 14:28:35 Architecture is: x86_64
+DEBUG Jun-01 14:28:35 running_kernel(): running kernel not matched to a package.
+INFO Jun-03 14:18:35 === Started libdnf-0.22.4 ===
+DEBUG Jun-03 14:18:36 deleting file /tmp/tmpdir.jfI1Zt/repodata/repomd.xml
+DEBUG Jun-03 14:18:36 deleting directory /tmp/tmpdir.jfI1Zt/repodata
+DEBUG Jun-03 14:18:36 deleting directory /tmp/tmpdir.jfI1Zt
+DEBUG Jun-03 14:18:36 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-03 14:18:36 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-03 14:18:36 no presto metadata available for jenkins
+DEBUG Jun-03 14:18:36 no updateinfo available for jenkins
+DEBUG Jun-03 14:18:38 deleting file /tmp/tmpdir.CfzAdY/repodata/repomd.xml
+DEBUG Jun-03 14:18:38 deleting directory /tmp/tmpdir.CfzAdY/repodata
+DEBUG Jun-03 14:18:38 deleting file /tmp/tmpdir.CfzAdY/mirrorlist
+DEBUG Jun-03 14:18:38 deleting directory /tmp/tmpdir.CfzAdY
+DEBUG Jun-03 14:18:38 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-03 14:18:38 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-03 14:18:38 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-03 14:18:38 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-03 14:18:38 deleting file /tmp/tmpdir.NJfbyZ/repodata/repomd.xml
+DEBUG Jun-03 14:18:38 deleting directory /tmp/tmpdir.NJfbyZ/repodata
+DEBUG Jun-03 14:18:38 deleting file /tmp/tmpdir.NJfbyZ/mirrorlist
+DEBUG Jun-03 14:18:38 deleting directory /tmp/tmpdir.NJfbyZ
+DEBUG Jun-03 14:18:38 using cached rhui-rhel-8-appstream-rhui-rpms (0xb75f34494b8bd168ba8ba785e1d258337e8a2ba756743296e7d1c653f2fa8097)
+DEBUG Jun-03 14:18:38 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx
+DEBUG Jun-03 14:18:38 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-03 14:18:38 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx
+DEBUG Jun-03 14:18:38 deleting file /tmp/tmpdir.rAqwb4/repodata/repomd.xml
+DEBUG Jun-03 14:18:38 deleting directory /tmp/tmpdir.rAqwb4/repodata
+DEBUG Jun-03 14:18:38 deleting file /tmp/tmpdir.rAqwb4/mirrorlist
+DEBUG Jun-03 14:18:38 deleting directory /tmp/tmpdir.rAqwb4
+DEBUG Jun-03 14:18:38 using cached rhui-rhel-8-baseos-rhui-rpms (0x71e89fd08fcb744157f946f15d9ee3f0b1a3ebe0e630111f14bc78f07b1291fa)
+DEBUG Jun-03 14:18:38 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx
+DEBUG Jun-03 14:18:38 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-03 14:18:38 load_ext: using cache file: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx
+DEBUG Jun-03 14:18:38 Architecture is: x86_64
+DEBUG Jun-03 14:18:38 running_kernel(): running kernel not matched to a package.
+INFO Jun-07 07:21:57 === Started libdnf-0.22.4 ===
+DEBUG Jun-07 07:21:58 deleting file /tmp/tmpdir.Fcx7PE/repodata/repomd.xml
+DEBUG Jun-07 07:21:58 deleting directory /tmp/tmpdir.Fcx7PE/repodata
+DEBUG Jun-07 07:21:58 deleting directory /tmp/tmpdir.Fcx7PE
+DEBUG Jun-07 07:21:58 using cached jenkins (0xbba0c0a02308059b6c74fb13a783a7b952c6175b0fbcdbf75fe9a76230d8295b)
+DEBUG Jun-07 07:21:58 load_ext: using cache file: /var/cache/dnf/jenkins-filenames.solvx
+DEBUG Jun-07 07:21:58 no presto metadata available for jenkins
+DEBUG Jun-07 07:21:58 no updateinfo available for jenkins
+DEBUG Jun-07 07:21:59 deleting file /tmp/tmpdir.T1ONTA/repodata/repomd.xml
+DEBUG Jun-07 07:21:59 deleting directory /tmp/tmpdir.T1ONTA/repodata
+DEBUG Jun-07 07:21:59 deleting file /tmp/tmpdir.T1ONTA/mirrorlist
+DEBUG Jun-07 07:21:59 deleting directory /tmp/tmpdir.T1ONTA
+DEBUG Jun-07 07:21:59 using cached rhui-client-config-server-8 (0xf57ec1f560f2a7dff9594cfcc5223b0d2506c970cf142a46e89610208ec7768f)
+DEBUG Jun-07 07:22:00 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-filenames.solvx
+DEBUG Jun-07 07:22:00 no presto metadata available for rhui-client-config-server-8
+DEBUG Jun-07 07:22:00 load_ext: using cache file: /var/cache/dnf/rhui-client-config-server-8-updateinfo.solvx
+DEBUG Jun-07 07:22:00 deleting file /tmp/tmpdir.sfDfax/repodata/repomd.xml
+DEBUG Jun-07 07:22:00 deleting directory /tmp/tmpdir.sfDfax/repodata
+DEBUG Jun-07 07:22:00 deleting file /tmp/tmpdir.sfDfax/mirrorlist
+DEBUG Jun-07 07:22:00 deleting directory /tmp/tmpdir.sfDfax
+DEBUG Jun-07 07:22:00 deleting file /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/repomd.xml
+DEBUG Jun-07 07:22:00 deleting file /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/2ab077a2af3b3ac41ba3df6e806e433d67f33fb8613e45ee06109c670c7e205f-filelists.xml.gz
+DEBUG Jun-07 07:22:00 deleting file /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/3a404145f37759df1955b587a93f08ecf6e1acb55beb1a3f949b578639d64ae7-primary.xml.gz
+DEBUG Jun-07 07:22:00 deleting file /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/45c4ca96fe7de430759c2707760a533b004c847d10ee23b1c657713eec8fb687-updateinfo.xml.gz
+DEBUG Jun-07 07:22:00 deleting file /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/0f780a8f0f272bb1f5012a1a4c67d876eaf6b7b296a45e45cb41b7533069b84d-modules.yaml.gz
+DEBUG Jun-07 07:22:00 deleting file /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/6cd8223fef596325d56c4315082161e97fb27adc945167a2ae18d16c0276f847-comps.xml
+DEBUG Jun-07 07:22:00 deleting directory /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata
+DEBUG Jun-07 07:22:00 deleting directory /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata
+DEBUG Jun-07 07:22:00 deleting directory /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/tmpdir.aP18Lx
+DEBUG Jun-07 07:22:00 fetching rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-07 07:22:00 caching repo: rhui-rhel-8-appstream-rhui-rpms (0xdb601a3a73a52b8c024477c3687b3f583f1beb2fde058a508e333c880b53aa18)
+DEBUG Jun-07 07:22:00 load_ext: loading: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/bedde78a439345e7747435d2d82bb148b0d626d1ea02f1a6ec2560567946df5d-filelists.xml.gz
+DEBUG Jun-07 07:22:01 write_ext: storing rhui-rhel-8-appstream-rhui-rpms to: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-filenames.solvx.Mo1Y3D
+DEBUG Jun-07 07:22:02 no presto metadata available for rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-07 07:22:02 load_ext: loading: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-0a2d1645c1d4f699/repodata/f938e2e9eaaacc61c27b739a5e3534a6c09b71bbd749f06b78ebcd55816eec51-updateinfo.xml.gz
+DEBUG Jun-07 07:22:02 write_ext: storing rhui-rhel-8-appstream-rhui-rpms to: /var/cache/dnf/rhui-rhel-8-appstream-rhui-rpms-updateinfo.solvx.H0p10I
+DEBUG Jun-07 07:22:03 deleting file /tmp/tmpdir.RIMO0N/repodata/repomd.xml
+DEBUG Jun-07 07:22:03 deleting directory /tmp/tmpdir.RIMO0N/repodata
+DEBUG Jun-07 07:22:03 deleting file /tmp/tmpdir.RIMO0N/mirrorlist
+DEBUG Jun-07 07:22:03 deleting directory /tmp/tmpdir.RIMO0N
+DEBUG Jun-07 07:22:04 deleting file /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/repomd.xml
+DEBUG Jun-07 07:22:04 deleting file /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/dfe9761964c6b0e12777b0fdfcdbc8a2a2ca476da250894d176ebf0b2d8dbe94-filelists.xml.gz
+DEBUG Jun-07 07:22:04 deleting file /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/3df85a32b5f9f23fde4c83ec0de3e308c4dabbd7e09a5151fca4730de8dfcef5-primary.xml.gz
+DEBUG Jun-07 07:22:04 deleting file /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/dde1ed9fba5d0e68a1705a53ea5074be369a47622a5a9c105192a57b267f8758-updateinfo.xml.gz
+DEBUG Jun-07 07:22:04 deleting file /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/9afc2f700be02a7eebe9cc93ebb03511a439a6b8fdf3bf6130c870f3b0aa1e24-comps.xml
+DEBUG Jun-07 07:22:04 deleting directory /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata
+DEBUG Jun-07 07:22:04 deleting directory /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata
+DEBUG Jun-07 07:22:04 deleting directory /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/tmpdir.LASWP0
+DEBUG Jun-07 07:22:04 fetching rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-07 07:22:04 caching repo: rhui-rhel-8-baseos-rhui-rpms (0x8c38f3619b30927a352eea8e1cd2bf48ff29a05efac7fe970b10d16e09ac6eb7)
+DEBUG Jun-07 07:22:04 load_ext: loading: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/281c6be492aa00bbeaa9ee5fc9e1b70a60b1f631fb5e6d8332d7b42a4d322f45-filelists.xml.gz
+DEBUG Jun-07 07:22:05 write_ext: storing rhui-rhel-8-baseos-rhui-rpms to: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-filenames.solvx.SAelYw
+DEBUG Jun-07 07:22:05 no presto metadata available for rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-07 07:22:05 load_ext: loading: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-e3dc8e38821fe640/repodata/312db5e000e2cce42fda24817b24836d696e048f94ed4c9630687964a4695e63-updateinfo.xml.gz
+DEBUG Jun-07 07:22:05 write_ext: storing rhui-rhel-8-baseos-rhui-rpms to: /var/cache/dnf/rhui-rhel-8-baseos-rhui-rpms-updateinfo.solvx.8Jdc1J
+DEBUG Jun-07 07:22:05 Architecture is: x86_64
+DEBUG Jun-07 07:22:05 running_kernel(): running kernel not matched to a package.
+DEBUG Jun-07 07:22:05 rewriting repo: rhui-rhel-8-appstream-rhui-rpms
+DEBUG Jun-07 07:22:05 caching repo: rhui-rhel-8-appstream-rhui-rpms (0xdb601a3a73a52b8c024477c3687b3f583f1beb2fde058a508e333c880b53aa18)
+DEBUG Jun-07 07:22:05 rewriting repo: rhui-rhel-8-baseos-rhui-rpms
+DEBUG Jun-07 07:22:05 caching repo: rhui-rhel-8-baseos-rhui-rpms (0x8c38f3619b30927a352eea8e1cd2bf48ff29a05efac7fe970b10d16e09ac6eb7)
